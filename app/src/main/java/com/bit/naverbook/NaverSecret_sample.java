@@ -5,7 +5,7 @@ package com.bit.naverbook;
  *
  * NAVER_CLIENT_ID와 NAVER_CLIENT_SECRET 항목을
  * 본읜의 NAVER 개발 APP의 정보로 수정한후
- * 파일이름을 NaverSecret 
+ * 파일이름을 NaverSecret 로 변경한 후 사용하세요
  */
 
 public class NaverSecret_sample {
